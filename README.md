@@ -2,7 +2,7 @@
   <img src="./assets/icon.svg" width="256" height="256"/> <br>
 </p> -->
 
-> A lightweight web browser designed to be ad free
+> A lightwieght web browser designed to be advertisment free 
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
