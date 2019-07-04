@@ -1,10 +1,27 @@
-<!-- <p align="center">
-  <img src="./assets/icon.svg" width="256" height="256"/> <br>
-</p> -->
+# Iridium
 
 > A lightwieght web browser designed to be advertisement free
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
+## Install
+
+*macOS 10.10+, Linux, and Windows 7+ are supported (64-bit only).*
+
+**macOS**
+
+[**Download**](https://github.com/mrbrist/iridium/releases/latest) the `.dmg` file.
+
+**Linux**
+
+[**Download**](https://github.com/mrbrist/iridium/releases/latest) the `.AppImage` or `.deb` file.
+
+*The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
+
+**Windows**
+
+[**Download**](https://github.com/mrbrist/iridium/releases/latest) the `.exe` file.
+
+---
 
 **Iridium** is built on [Electron](https://electronjs.org) and is
 + Open Source
@@ -13,12 +30,9 @@
 + Lightweight
 + Ad Free
 
-### The Stack
-+ [Electron](https://electronjs.org)
+### Run
 
-
-### Download
-**Iridium** is currently still under development so no releases are available, but feel free to build it from source if you want
-
-### Contact Me
-You can email me at [brist@mrbrist.com](brist@mrbrist.com) if you have any questions
+```
+$ npm install
+$ npm start
+```
