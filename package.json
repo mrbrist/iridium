@@ -25,6 +25,10 @@
 		"electron-unhandled": "^2.2.0",
 		"electron-updater": "^4.0.6",
 		"electron-util": "^0.12.0",
+		"eslint": "^6.0.1",
+		"eslint-plugin-import": "^2.18.0",
+		"eslint-plugin-node": "^9.1.0",
+		"eslint-plugin-promise": "^4.2.1",
 		"standard": "^12.0.1"
 	},
 	"devDependencies": {
